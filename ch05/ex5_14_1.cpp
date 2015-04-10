@@ -28,7 +28,7 @@ int main()
 		}
 		else
 		{
-			countNum = 0;
+			countNum = 1;
 		}
 		if (countNum>bigNum)
 		{
